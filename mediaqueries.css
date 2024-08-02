@@ -405,7 +405,7 @@
     }
     .card{
         height: 17rem;
-       
+       overflow-y:auto;
         box-shadow: 0 0 6px 0px rgba(0, 0, 0, 0.35);
     }
 }
@@ -534,7 +534,7 @@ box-shadow:  inset 2px 2px 10px 0px #949292;
 
     .card{
         height: 14rem;
-        
+        overflow-y:auto;
         box-shadow: 0 0 6px 0px rgba(0, 0, 0, 0.35);
     }
 }
